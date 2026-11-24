@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="250 260 620 512" width="620" height="512">
+  <title>Motion Barakah mark</title>
+  <!-- The rising light mark with no ground, for use on green, green-deep or night only. Never on cream: the gold vanishes. -->
+  <defs>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#ffd696" stop-opacity=".55"/>
+      <stop offset=".45" stop-color="#c9a227" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#c9a227" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="lit" cx=".42" cy=".38" r=".7">
+      <stop offset="0" stop-color="#fff1c8"/>
+      <stop offset=".55" stop-color="#f0d98a"/>
+      <stop offset="1" stop-color="#c9a227"/>
+    </radialGradient>
+  </defs>
+  <circle cx="700" cy="430" r="170" fill="url(#glow)"/>
+  <circle cx="306" cy="716" r="48" fill="#c9a227"/>
+  <circle cx="452" cy="582" r="76" fill="#e3c25c"/>
+  <circle cx="700" cy="430" r="122" fill="url(#lit)"/>
+</svg>
