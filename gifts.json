@@ -38,16 +38,6 @@
   ]
  },
  {
-  "keyword": "FAJR",
-  "ml": "ഫജ്റും അസ്റും",
-  "en": "Fajr and Asr",
-  "link": "https://drive.google.com/file/d/1yYTHxi7MkqNisfvpNcjgG6FsAu5irKCu/view?usp=drivesdk",
-  "times": [
-   "2026-11-26T15:00:00+00:00",
-   "2026-12-09T15:00:00+00:00"
-  ]
- },
- {
   "keyword": "HEAL",
   "ml": "വേദനയിലും രോഗത്തിലും: നബി ﷺ പഠിപ്പിച്ച വാക്കുകൾ",
   "en": "When pain or sickness comes",
@@ -87,13 +77,33 @@
   ]
  },
  {
-  "keyword": "MUSA",
-  "ml": "മൂസാ നബി (അ)യുടെ അഞ്ച് ദുആകൾ",
-  "en": "The five duas of Prophet Musa in the Qur'an, and the moment of each",
-  "link": "https://drive.google.com/file/d/1-L-CNLFnUEHvWanG5ghZXp5vvFYp9_AQ/view?usp=drivesdk",
+  "keyword": "CALL",
+  "ml": "കുടുംബബന്ധം ചേർക്കാൻ",
+  "en": "Keeping the ties",
+  "link": "https://drive.google.com/file/d/1xVHWUk7bq2UIO9LvoHEWvL_1BZkOvhzT/view?usp=drivesdk",
   "times": [
-   "2026-11-26T12:00:00+00:00",
-   "2026-12-01T12:00:00+00:00"
+   "2026-11-28T12:00:00+00:00",
+   "2026-11-29T12:00:00+00:00"
+  ]
+ },
+ {
+  "keyword": "DUHA",
+  "ml": "ളുഹാ: 360 സദഖക്ക് രണ്ട് റക്അത്ത്",
+  "en": "Duha: two rak'ahs for 360 charities",
+  "link": "https://drive.google.com/file/d/13UAzSHoDgU0PqIDvnkItv4BDPx3BdXE8/view?usp=drivesdk",
+  "times": [
+   "2026-11-29T09:00:00+00:00"
+  ]
+ },
+ {
+  "keyword": "BISMI",
+  "ml": "വാതിൽക്കലും പ്ലേറ്റിലും",
+  "en": "At the door and the plate",
+  "link": "https://drive.google.com/file/d/1GPRflTuW7Tfmkhzzb1i3gLIpwNO202ZL/view?usp=drivesdk",
+  "times": [
+   "2026-11-21T00:00:00+00:00",
+   "2026-11-25T12:00:00+00:00",
+   "2026-11-27T12:00:00+00:00"
   ]
  },
  {
@@ -107,23 +117,109 @@
   ]
  },
  {
-  "keyword": "CALL",
-  "ml": "കുടുംബബന്ധം ചേർക്കാൻ",
-  "en": "Keeping the ties",
-  "link": "https://drive.google.com/file/d/1xVHWUk7bq2UIO9LvoHEWvL_1BZkOvhzT/view?usp=drivesdk",
+  "keyword": "DUA",
+  "ml": "ദുആ സ്വീകരിക്കപ്പെടുന്ന സമയങ്ങൾ",
+  "en": "When dua is answered",
+  "link": "https://drive.google.com/file/d/1QLVPGs7t9lRTEhgMcInQNic7GAXewFSL/view?usp=drive_link",
   "times": [
-   "2026-11-28T12:00:00+00:00",
-   "2026-11-29T12:00:00+00:00"
+   "2026-11-08T00:00:00+00:00",
+   "2026-11-27T09:00:00+00:00",
+   "2026-12-04T11:30:00+00:00",
+   "2026-12-07T10:30:00+00:00"
   ]
  },
  {
-  "keyword": "BISMI",
-  "ml": "വാതിൽക്കലും പ്ലേറ്റിലും",
-  "en": "At the door and the plate",
-  "link": "https://drive.google.com/file/d/1GPRflTuW7Tfmkhzzb1i3gLIpwNO202ZL/view?usp=drivesdk",
+  "keyword": "FAJR",
+  "ml": "ഫജ്റും അസ്റും",
+  "en": "Fajr and Asr",
+  "link": "https://drive.google.com/file/d/1yYTHxi7MkqNisfvpNcjgG6FsAu5irKCu/view?usp=drivesdk",
   "times": [
-   "2026-11-25T12:00:00+00:00",
-   "2026-11-27T12:00:00+00:00"
+   "2026-11-26T15:00:00+00:00",
+   "2026-12-09T15:00:00+00:00"
+  ]
+ },
+ {
+  "keyword": "SALAWAT",
+  "ml": "സ്വലാത്ത്: ചൊല്ലേണ്ട വിധവും പ്രതിഫലവും",
+  "en": "",
+  "link": "https://drive.google.com/file/d/1LVnf05qK_e9n4WKxgKFRF-VF-2BC8UwR/view?usp=drive_link",
+  "times": [
+   "2026-11-12T00:00:00+00:00",
+   "2026-11-26T15:00:00+00:00",
+   "2026-11-27T15:00:00+00:00",
+   "2026-12-04T15:00:00+00:00"
+  ]
+ },
+ {
+  "keyword": "MUSA",
+  "ml": "മൂസാ നബി (അ)യുടെ അഞ്ച് ദുആകൾ",
+  "en": "The five duas of Prophet Musa in the Qur'an, and the moment of each",
+  "link": "https://drive.google.com/file/d/1-L-CNLFnUEHvWanG5ghZXp5vvFYp9_AQ/view?usp=drivesdk",
+  "times": [
+   "2026-11-26T12:00:00+00:00",
+   "2026-12-01T12:00:00+00:00"
+  ]
+ },
+ {
+  "keyword": "HOME",
+  "ml": "ഇറങ്ങുമ്പോഴും കയറുമ്പോഴും",
+  "en": "Leaving and coming home",
+  "link": "https://drive.google.com/file/d/1wILgAg3hm8N7d6Bol9DgFv8rwNTe2e_r/view?usp=drivesdk",
+  "times": [
+   "2026-11-15T00:00:00+00:00",
+   "2026-11-26T09:05:00+00:00"
+  ]
+ },
+ {
+  "keyword": "VISIT",
+  "ml": "അല്ലാഹുവിന് വേണ്ടി ഒരു സന്ദർശനം",
+  "en": "A visit for Allah",
+  "link": "https://drive.google.com/file/d/1hXMpLmp68wmpgwaYC5gjOOJeXbVQdCnc/view?usp=drivesdk",
+  "times": [
+   "2026-11-16T00:00:00+00:00",
+   "2026-11-26T04:40:00+00:00"
+  ]
+ },
+ {
+  "keyword": "WUDU",
+  "ml": "വുദുവും അതിന് ശേഷവും",
+  "en": "Wudu, and what comes after it",
+  "link": "https://drive.google.com/file/d/1DmZ7Mtx3-t3jy-NylR2CFwPDvWovloR7/view?usp=drivesdk",
+  "times": [
+   "2026-11-11T00:00:00+00:00",
+   "2026-11-25T15:00:00+00:00",
+   "2026-12-02T15:00:00+00:00",
+   "2026-12-09T17:30:00+00:00"
+  ]
+ },
+ {
+  "keyword": "RIZQ",
+  "ml": "ബറകത്തുള്ള രിസ്ഖ്: പന്ത്രണ്ട് വഴികൾ",
+  "en": "Barakah in rizq: twelve ways",
+  "link": "https://drive.google.com/file/d/11o3xoV4t95w0qsRea5lGhCm3JrCBo8aN/view?usp=drive_link",
+  "times": [
+   "2026-11-14T00:00:00+00:00",
+   "2026-11-25T13:30:00+00:00"
+  ]
+ },
+ {
+  "keyword": "GUARD",
+  "ml": "ദൂരം കാക്കാൻ ആറ് കാവലുകൾ",
+  "en": "Six guards",
+  "link": "https://drive.google.com/file/d/1vrWYrXguePIngwG1ssnEbWI7QfRqxthF/view?usp=drivesdk",
+  "times": [
+   "2026-11-16T00:00:00+00:00",
+   "2026-11-25T08:40:00+00:00"
+  ]
+ },
+ {
+  "keyword": "GOOD",
+  "ml": "നല്ല സ്വഭാവം, അവിടുത്തെ ﷺ വാക്കുകളിൽ",
+  "en": "Good character, in his words",
+  "link": "https://drive.google.com/file/d/1tE4P5yhUGwpN7vZO9orebb_-hMqdneO8/view?usp=drive_link",
+  "times": [
+   "2026-11-15T00:00:00+00:00",
+   "2026-11-25T05:00:00+00:00"
   ]
  },
  {
@@ -302,46 +398,6 @@
   ]
  },
  {
-  "keyword": "GUARD",
-  "ml": "ദൂരം കാക്കാൻ ആറ് കാവലുകൾ",
-  "en": "Six guards",
-  "link": "https://drive.google.com/file/d/1vrWYrXguePIngwG1ssnEbWI7QfRqxthF/view?usp=drivesdk",
-  "times": [
-   "2026-11-16T00:00:00+00:00",
-   "2026-11-25T08:40:00+00:00"
-  ]
- },
- {
-  "keyword": "VISIT",
-  "ml": "അല്ലാഹുവിന് വേണ്ടി ഒരു സന്ദർശനം",
-  "en": "A visit for Allah",
-  "link": "https://drive.google.com/file/d/1hXMpLmp68wmpgwaYC5gjOOJeXbVQdCnc/view?usp=drivesdk",
-  "times": [
-   "2026-11-16T00:00:00+00:00",
-   "2026-11-26T04:40:00+00:00"
-  ]
- },
- {
-  "keyword": "GOOD",
-  "ml": "നല്ല സ്വഭാവം, അവിടുത്തെ ﷺ വാക്കുകളിൽ",
-  "en": "Good character, in his words",
-  "link": "https://drive.google.com/file/d/1tE4P5yhUGwpN7vZO9orebb_-hMqdneO8/view?usp=drive_link",
-  "times": [
-   "2026-11-15T00:00:00+00:00",
-   "2026-11-25T05:00:00+00:00"
-  ]
- },
- {
-  "keyword": "HOME",
-  "ml": "ഇറങ്ങുമ്പോഴും കയറുമ്പോഴും",
-  "en": "Leaving and coming home",
-  "link": "https://drive.google.com/file/d/1wILgAg3hm8N7d6Bol9DgFv8rwNTe2e_r/view?usp=drivesdk",
-  "times": [
-   "2026-11-15T00:00:00+00:00",
-   "2026-11-26T09:05:00+00:00"
-  ]
- },
- {
   "keyword": "GIVE",
   "ml": "സദഖ സ്വീകരിക്കപ്പെടാൻ ഏഴ് കാര്യങ്ങൾ",
   "en": "Seven things for sadaqa",
@@ -349,16 +405,6 @@
   "times": [
    "2026-11-15T00:00:00+00:00",
    "2026-12-10T15:45:00+00:00"
-  ]
- },
- {
-  "keyword": "RIZQ",
-  "ml": "ബറകത്തുള്ള രിസ്ഖ്: പന്ത്രണ്ട് വഴികൾ",
-  "en": "Barakah in rizq: twelve ways",
-  "link": "https://drive.google.com/file/d/11o3xoV4t95w0qsRea5lGhCm3JrCBo8aN/view?usp=drive_link",
-  "times": [
-   "2026-11-14T00:00:00+00:00",
-   "2026-11-25T13:30:00+00:00"
   ]
  },
  {
@@ -382,18 +428,6 @@
   ]
  },
  {
-  "keyword": "SALAWAT",
-  "ml": "സ്വലാത്ത്: ചൊല്ലേണ്ട വിധവും പ്രതിഫലവും",
-  "en": "",
-  "link": "https://drive.google.com/file/d/1LVnf05qK_e9n4WKxgKFRF-VF-2BC8UwR/view?usp=drive_link",
-  "times": [
-   "2026-11-12T00:00:00+00:00",
-   "2026-11-26T15:00:00+00:00",
-   "2026-11-27T15:00:00+00:00",
-   "2026-12-04T15:00:00+00:00"
-  ]
- },
- {
   "keyword": "FAMILY",
   "ml": "കുടുംബത്തിന് ചെലവാക്കുമ്പോൾ",
   "en": "When you spend on your family",
@@ -401,18 +435,6 @@
   "times": [
    "2026-11-11T00:00:00+00:00",
    "2026-12-03T11:00:00+00:00"
-  ]
- },
- {
-  "keyword": "WUDU",
-  "ml": "വുദുവും അതിന് ശേഷവും",
-  "en": "Wudu, and what comes after it",
-  "link": "https://drive.google.com/file/d/1DmZ7Mtx3-t3jy-NylR2CFwPDvWovloR7/view?usp=drivesdk",
-  "times": [
-   "2026-11-11T00:00:00+00:00",
-   "2026-11-25T15:00:00+00:00",
-   "2026-12-02T15:00:00+00:00",
-   "2026-12-09T17:30:00+00:00"
   ]
  },
  {
@@ -433,18 +455,6 @@
   "times": [
    "2026-11-08T00:00:00+00:00",
    "2026-12-09T12:10:00+00:00"
-  ]
- },
- {
-  "keyword": "DUA",
-  "ml": "ദുആ സ്വീകരിക്കപ്പെടുന്ന സമയങ്ങൾ",
-  "en": "When dua is answered",
-  "link": "https://drive.google.com/file/d/1QLVPGs7t9lRTEhgMcInQNic7GAXewFSL/view?usp=drive_link",
-  "times": [
-   "2026-11-08T00:00:00+00:00",
-   "2026-11-27T09:00:00+00:00",
-   "2026-12-04T11:30:00+00:00",
-   "2026-12-07T10:30:00+00:00"
   ]
  }
 ]
